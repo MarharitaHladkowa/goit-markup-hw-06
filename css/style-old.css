@@ -314,6 +314,7 @@ button {
 .footer-container {
   display: flex;
   align-items: baseline;
+  flex-wrap: wrap;
 }
 
 .icons-list-footer .item-icons-a:hover {
